@@ -2,6 +2,7 @@ This file is used only for generating "work" to test Gitbub & Trello integration
 
 2012-10-21
 ---
-First commit test
-Added secondary commit on forked repo
-Added another commit on forked repo
+* First commit test
+* Added secondary commit on forked repo
+* Added another commit on forked repo
+* Yes, this is *another* commit.
